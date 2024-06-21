@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning *Python*
 
-- 📫 How to reach me *payalch.2503j@gmail.com*
+- 📫 How to reach me *payalch.2503@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/payal-choudhary](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAD87GJcBqaxeX6Kk7Lhn7qgJ5iAGoyqwPSw&keywords=payal%20choudhary&origin=RICH_QUERY_SUGGESTION&position=0&searchId=344ce919-13b0-4265-8012-8f366e08a252&sid=3NA&spellCorrectionEnabled=false)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="payal-choudhary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/payal-choudhary-733332257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="payal-choudhary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
